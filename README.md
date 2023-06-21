@@ -2,6 +2,11 @@
 
 Welcome to the Machine Translation with Transformers project! This project demonstrates the implementation of a Transformer model for machine translation tasks. The Transformer model has shown great success in various natural language processing tasks, including machine translation.
 
+## Transformer model
+
+![alt text](https://machinelearningmastery.com/wp-content/uploads/2021/08/attention_research_1.png)
+![alt text](image_url =250x250)
+
 ## Usage
 
 To understand and use the code, follow the steps below:
