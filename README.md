@@ -4,8 +4,7 @@ Welcome to the Machine Translation with Transformers project! This project demon
 
 ## Transformer model
 
-![alt text](https://machinelearningmastery.com/wp-content/uploads/2021/08/attention_research_1.png)
-![alt text](image_url =250x250)
+![alt text](https://machinelearningmastery.com/wp-content/uploads/2021/08/attention_research_1.png = 250x250)
 
 ## Usage
 
