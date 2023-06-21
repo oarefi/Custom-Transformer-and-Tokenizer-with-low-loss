@@ -18,7 +18,7 @@ To understand and use the code, follow the steps below:
 
 6. **Train the model:** Use the prepared input tensors as the input to the `forward` method of the Transformer model. The model will perform the forward pass, compute the output predictions, and compare them with the actual target sentences to calculate the loss. The goal of training is to minimize this loss by adjusting the model's parameters through backpropagation. Training is typically performed using optimization techniques like stochastic gradient descent (SGD) or Adam optimizer.
 
-7. **Emphasize the low loss:** In machine translation tasks, achieving a low loss indicates that the model is effectively translating the source sentences into the target language. A low loss suggests that the model has learned to capture the patterns and relationships between the source and target sentences. Monitoring the loss during training helps assess the model's progress and determine when to stop training.
+7. **Low loss performance shown:** In machine translation tasks, achieving a low loss indicates that the model is effectively translating the source sentences into the target language. A low loss suggests that the model has learned to capture the patterns and relationships between the source and target sentences. Monitoring the loss during training helps assess the model's progress and determine when to stop training. The english to arabic dataset example within the notebooks shows low loss.
 
 Feel free to explore the code and experiment with different hyperparameters, architectures, or training techniques to improve the translation quality and reduce the loss further.
 
